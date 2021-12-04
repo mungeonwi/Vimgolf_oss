@@ -3,5 +3,6 @@ Vimgolf_oss
 
 ### VimGolf ###
 
-"""vimgolf - 1"""
+**vimgolf - 1**
+
 Add quotes to ansible playbook
