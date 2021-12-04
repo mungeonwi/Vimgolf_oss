@@ -67,5 +67,27 @@ score : 34
 
 keystrokes : :4<CR>ywO// <C-N> TODO<Esc>:6<CR>ywO// <C-N> TODO<Esc>ZZ
 
+---------------------------------------------------------
+
+### 3 **vimgolf - 3** ###
   
+* Plotting some variables in python
+
+* $ vimgolf put 9v0060da5177000000000209
+
+* 최고점 : 34
   
+--------------------------------------------------------
+![image](https://user-images.githubusercontent.com/87855218/144703579-a6af7912-c2e1-4e3e-98aa-0d77e5880364.png)
+![image](https://user-images.githubusercontent.com/87855218/144703581-1ebbeaa6-98a3-4b76-b513-d45058193a9b.png)
+
+------------------------------------------------------------
+* 풀이 과정
+  ![vimgolf_4](https://user-images.githubusercontent.com/87855218/144703591-31d0b2f2-9da8-4692-84fb-ad4b5f6b1217.gif)
+
+score : 34 
+
+keystrokes : :%s/y1/abs(y1)/g<CR>:3s/k/b<CR>:4s/k/r<CR>:5s/k/g<CR>:3s/1/2/g<CR>:4s/1/3/g<CR>:5s/1/4/g<CR>ZZ
+
+
+ 
