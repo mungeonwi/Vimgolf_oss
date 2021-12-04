@@ -13,3 +13,7 @@ Vimgolf_oss
 ----------------------------------------------------
 ![image](https://user-images.githubusercontent.com/87855218/144703062-6228187c-2d7c-4828-83e3-f818eb169ea1.png)
 ![image](https://user-images.githubusercontent.com/87855218/144703068-7f81eeeb-e72c-4fa1-94af-f91c8c094676.png)
+-----------------------------------------------------
+*풀이*
+![vimgolf_1](https://user-images.githubusercontent.com/87855218/144703128-48da5652-7e54-4839-a3bf-7be0f605f242.gif)
+
