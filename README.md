@@ -111,6 +111,6 @@ keystrokes : :%s/y1/abs(y1)/g<CR>:3s/k/b<CR>:4s/k/r<CR>:5s/k/g<CR>:3s/1/2/g<CR>:
 ![vimgolf_5](https://user-images.githubusercontent.com/87855218/144703754-7251fb4a-234c-4c3d-beaa-ba204cb12b6e.gif)
 
 
-score : 73 
+score : 53 
 
 keystrokes : :5<CR>yw10G$Pa,<Esc>:6<CR>yw10G$Pa,<Esc>:7<CR>yw10G$Pa,:<BS><Esc>:8<CR>yw10G$PZZ
