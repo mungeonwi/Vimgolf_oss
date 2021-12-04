@@ -76,7 +76,7 @@ keystrokes : :4<CR>ywO// <C-N> TODO<Esc>:6<CR>ywO// <C-N> TODO<Esc>ZZ
   
 ---------------------------------------------------------
 
-### 3 **vimgolf - 3** ###
+### 4 **vimgolf - 4** ###
   
 * Plotting some variables in python
 
@@ -99,7 +99,7 @@ score : 73
 keystrokes : :%s/y1/abs(y1)/g<CR>:3s/k/b<CR>:4s/k/r<CR>:5s/k/g<CR>:3s/1/2/g<CR>:4s/1/3/g<CR>:5s/1/4/g<CR>ZZ
 
 -----------------------------------------------------------
-### 3 **vimgolf - 3** ###
+### 5 **vimgolf - 5** ###
   
 * Python dataclasses
 
