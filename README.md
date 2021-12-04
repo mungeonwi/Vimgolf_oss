@@ -3,7 +3,7 @@ Vimgolf_oss
 
 ### VimGolf ###
 
-1 **vimgolf - 1**
+### 1 **vimgolf - 1** ###
 
 * Add quotes to ansible playbook
 
@@ -24,7 +24,7 @@ keystrokes : GWi"<END>"ZZ
 
 ---------------------------------------------------------
   
-2 **vimgolf - 2**
+### 2 **vimgolf - 2** ###
   
 *  simple replacements
 
@@ -43,6 +43,29 @@ keystrokes : GWi"<END>"ZZ
 score : 28 
 
 keystrokes : (Esc):%s/sublime|emacs/vim/gZZ
+
+-------------------------------------------------------------
+
+### 3 **vimgolf - 3** ###
+  
+* Satisfy the go linter
+
+* $ vimgolf put 5f1063aa8361810006e73210
+
+* 최고점 : 20
+  
+------------------------------------------------------------
+  ![image](https://user-images.githubusercontent.com/87855218/144703430-d144f328-c494-4c84-a942-c1b2e2ee9c22.png)
+![image](https://user-images.githubusercontent.com/87855218/144703433-0eff6ce7-fa15-4be3-a2a2-713386d774ad.png)
+
+------------------------------------------------------------
+* 풀이과정
+  
+ ![vimgolf_3](https://user-images.githubusercontent.com/87855218/144703455-d44ceadb-74ea-4ce9-b3af-bfb848c4f989.gif)
+
+score : 34 
+
+keystrokes : :4<CR>ywO// <C-N> TODO<Esc>:6<CR>ywO// <C-N> TODO<Esc>ZZ
 
   
   
