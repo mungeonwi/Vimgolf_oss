@@ -91,5 +91,26 @@ score : 73
 
 keystrokes : :%s/y1/abs(y1)/g<CR>:3s/k/b<CR>:4s/k/r<CR>:5s/k/g<CR>:3s/1/2/g<CR>:4s/1/3/g<CR>:5s/1/4/g<CR>ZZ
 
+-----------------------------------------------------------
+### 3 **vimgolf - 3** ###
+  
+* Python dataclasses
 
+*  $ vimgolf put 6013804df3308e0009368f1c
+
+* 최고점 : 19
+  
+-----------------------------------------------------------
  
+![image](https://user-images.githubusercontent.com/87855218/144703724-11240865-834c-48be-a6f4-7978803eb6a1.png)
+![image](https://user-images.githubusercontent.com/87855218/144703733-15f4d9f6-c8ad-4e32-9dc9-83dd979292ba.png)
+
+-----------------------------------------------------------
+* 풀이 과정 
+  
+![vimgolf_5](https://user-images.githubusercontent.com/87855218/144703754-7251fb4a-234c-4c3d-beaa-ba204cb12b6e.gif)
+
+
+score : 73 
+
+keystrokes : :5<CR>yw10G$Pa,<Esc>:6<CR>yw10G$Pa,<Esc>:7<CR>yw10G$Pa,:<BS><Esc>:8<CR>yw10G$PZZ
