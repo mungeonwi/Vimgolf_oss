@@ -84,7 +84,8 @@ keystrokes : :4<CR>ywO// <C-N> TODO<Esc>:6<CR>ywO// <C-N> TODO<Esc>ZZ
 ------------------------------------------------------------
 * 풀이 과정
   
-![vimgolf_4](https://user-images.githubusercontent.com/87855218/144703591-31d0b2f2-9da8-4692-84fb-ad4b5f6b1217.gif
+![vimgolf_4](https://user-images.githubusercontent.com/87855218/144703650-fd84e05f-c1d6-4daa-befc-866326d029f2.gif)
+
   
 score : 73 
 
