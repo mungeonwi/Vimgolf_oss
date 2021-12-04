@@ -19,9 +19,10 @@ Vimgolf_oss
 ![vimgolf_1](https://user-images.githubusercontent.com/87855218/144703128-48da5652-7e54-4839-a3bf-7be0f605f242.gif)
 
 score : 6
+
 keystrokes : GWi"<END>"ZZ
 
---------------------------------------------------------
+---------------------------------------------------------
   
 2 **vimgolf - 2**
   
@@ -30,3 +31,18 @@ keystrokes : GWi"<END>"ZZ
 * $ vimgolf put 603ba26a01b4d00009c10a49
 
 * 최고점 : 19
+  
+---------------------------------------------------------
+  ![image](https://user-images.githubusercontent.com/87855218/144703289-5481b6f5-af4f-40a7-b7bb-70da584cd1b6.png)
+![image](https://user-images.githubusercontent.com/87855218/144703293-873200dd-5a1c-449a-abaf-290a4eb7a901.png)
+--------------------------------------------------------------
+* 풀이과정
+
+  ![vimgolf_2](https://user-images.githubusercontent.com/87855218/144703307-1ea61960-1647-450a-802d-4e56d99d57e2.gif)
+
+score : 28 
+
+keystrokes : (Esc):%s/sublime|emacs/vim/gZZ
+
+  
+  
